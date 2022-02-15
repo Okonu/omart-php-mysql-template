@@ -2,6 +2,7 @@
 
 defined('BASEPATH') or exit('No direct script access allowed');
 
+//admin login controller
 class AdminLogin extends CI_Controller
 {
 
